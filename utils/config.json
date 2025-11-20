@@ -1,0 +1,12 @@
+{
+    "Email_Send": "",
+    "Email_Receive": "",
+    "Email_Password": "",
+    "url": "rtsp://nobi2212:nobi2212@10.88.174.1/stream1",
+    "ALERT": false,
+    "Threshold": 10,
+    "Thread": true,
+    "Log": true,
+    "Scheduler": false,
+    "Timer": false
+}
